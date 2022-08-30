@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Marlxton/tailwind/issues"
   },
-  "homepage": "https://github.com/Marlxton/tailwind#readme"
+  "homepage": "https://github.com/Marlxton/tailwind#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.8"
+  }
 }
